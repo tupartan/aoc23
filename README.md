@@ -1,4 +1,4 @@
-# Advent Of Code 2023 - Let's see how I get this time
+# Advent Of Code 2023 - Let's see how far I get this time
 ## Day 0
 ### Hello to me
 My name is Tuomas and I am a software tester. I have been testing for a living about 20 years now and I have seen quite many different kinds of setups. Agile, Waterfall, large enterprise software programs, embedded mobile phone development programs, have been a developer, tester, manager, customer support, trainer, a powerpoint man, ... 
