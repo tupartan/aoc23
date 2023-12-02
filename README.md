@@ -9,4 +9,8 @@ I have started this AoC once, or twice, never really finishing. Last time I trie
 
 ## Day 1
 ### Good morning and good night
-So my puzzle solving begins. First things first is to remind myself (google) of basics. I was suprised how quickly I was able to remember and churn the puzzle with Python so maybe it is like riding a bike. After a few falls and bruises and buried the first puzzle. But the second part, ... phew..., test inputs did not uncover a flaw in my approach and until I figured which input row was not interpreted correctly, I was able to get the right answer. Maybe google helped me to find rows behaving badly. Just before midnight.
+So my puzzle solving begins. First things first is to remind myself (google) of basics. I was suprised how quickly I was able to remember and churn the puzzle with Python so maybe it is like riding a bike. After a few falls and bruises I buried the first puzzle. But the second part, ... phew..., test inputs did not uncover a flaw in my approach and before I figured which input row was not interpreted correctly, I was able to get the right answer. Maybe google helped me to find rows behaving badly. Just before midnight.
+
+## Day 2
+### Coding in the middle of the forest
+Today I was able to jump in to this only in the later afternoon. In addition to my day job I have a hobby, or some might call it a  profession, which obligates me to be in the middle of forest once or twice a year. Luckily I have pretty decent accommodation and good wifi so I have a good setup for solving todays puzzle. Coding parts today were simple and straight forward; rules of the puzzle were not, so first part of the puzzle took more time than it needed, but second part was easy and no need to stay until midnight.
