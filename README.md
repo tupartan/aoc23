@@ -14,3 +14,7 @@ So my puzzle solving begins. First things first is to remind myself (google) of 
 ## Day 2
 ### Coding in the middle of the forest
 Today I was able to jump in to this only in the later afternoon. In addition to my day job I have a hobby, or some might call it a  profession, which obligates me to be in the middle of forest once or twice a year. Luckily I have pretty decent accommodation and good wifi so I have a good setup for solving todays puzzle. Coding parts today were simple and straight forward; rules of the puzzle were not, so first part of the puzzle took more time than it needed, but second part was easy and no need to stay until midnight.
+
+## Day 3
+### Not funny
+7 minutes before midnight I solved this. After a weekend in the middle of the forest, I was looking forward to relax and enjoy a peaceful evening. Sod it. I was determined to solve today's puzzle, but even though with valid approach, extensive testing, fixing and testing, fixing I finally got there with first puzzle. It took me a lot of time. Luckily second part was just minor adjustements (krhm. hacks) so still, but barely, in target. Good night.
