@@ -17,4 +17,8 @@ Today I was able to jump in to this only in the later afternoon. In addition to 
 
 ## Day 3
 ### Not funny
-7 minutes before midnight I solved this. After a weekend in the middle of the forest, I was looking forward to relax and enjoy a peaceful evening. Sod it. I was determined to solve today's puzzle, but even though with valid approach, extensive testing, fixing and testing, fixing I finally got there with first puzzle. It took me a lot of time. Luckily second part was just minor adjustements (krhm. hacks) so still, but barely, in target. Good night.
+Seven minutes before midnight I solved this. After a weekend in the middle of the forest, I was looking forward to relax and enjoy a peaceful evening. Sod it. I was determined to solve today's puzzle, but even though with valid approach, extensive testing, fixing and testing, fixing I finally got there with first puzzle. It took me a lot of time. Luckily second part was just minor adjustements (krhm. hacks) so still, but barely, in target. Good night.
+
+## Day 4
+### Logic vs. efficiency
+Today was the first coding tasks that hinted that my code should be efficient rather than meeting my standards for logic. Second part of the puzzle took few seconds to run, I got the right answer at first try, but previous attempts with aocs' have taught me that in puzzles to come I need to learn new tricks especially producing more efficient code. I asked from ChatGPT, but even though attempts were made, I don't think code performance was more efficient when compared to my solution. Then checked reddit for alternative solution and found a one made with 9 lines of code (mine was about 50) and boy it was fast. So human beat the AI.
