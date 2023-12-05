@@ -22,3 +22,7 @@ Seven minutes before midnight I solved this. After a weekend in the middle of th
 ## Day 4
 ### Logic vs. efficiency
 Today was the first coding tasks that hinted that my code should be efficient rather than meeting my standards for logic. Second part of the puzzle took few seconds to run, I got the right answer at first try, but previous attempts with aocs' have taught me that in puzzles to come I need to learn new tricks especially producing more efficient code. I asked from ChatGPT, but even though attempts were made, I don't think code performance was more efficient when compared to my solution. Then checked reddit for alternative solution and found a one made with 9 lines of code (mine was about 50) and boy it was fast. So human beat the AI.
+
+## Day5
+### Brute forcing
+So it was today that these performance puzzles came. Length and complexity of the rules were appalling. I read those quite a few times, had some coffee, read instrucions again, repeat... but once pieces were in place, solution ran like a dream. Until part 2. Which is pretty much the same but a looooooot of more numbers to run. So after more than 3 hours of waiting, I am thinking of stopping for tonight and see if there are answers tomorrow morning.
