@@ -26,3 +26,7 @@ Today was the first coding tasks that hinted that my code should be efficient ra
 ## Day5
 ### Brute forcing
 So it was today that these performance puzzles came. Length and complexity of the rules were appalling. I read those quite a few times, had some coffee, read instrucions again, repeat... but once pieces were in place, solution ran like a dream. Until part 2. Which is pretty much the same but a looooooot of more numbers to run. So after more than 3 hours of waiting, I am thinking of stopping for tonight and see if there are answers tomorrow morning.
+
+## Day 6
+### Still brute forcing
+Day 5 part 2 has not finished its run. So naturally I ignored that problem and moved on. Day 6 had the same vibes as day 5; first part was pretty straight forward and easy to do and second part gave an impression that here we go with brute forcing again. I was pretty shocked that part 2 brute forced itself in mere seconds. So as the day 6 is finished, I need to revisit day 5 and try to read posts and hints about effective solutions and try it myself. Let's see...
