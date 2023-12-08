@@ -34,3 +34,7 @@ Day 5 part 2 has not finished its run. So naturally I ignored that problem and m
 ## Day 7
 ### Testing testing
 Day after day 7 - it was straight forward and itself easy to code. What is coming apparent, besides thinking from performance point-of-view, is to approach these puzzles form testing pow. Most of the times the test input given is not enoght to cover all the cases so it will take some time to debug and find bugs in one's code. Reddit community has helped with that, but how about implementing that in one's ways of coding.
+
+## Day 8
+### What is LCM
+One those days, yes, where first part of the puzzle is easy, logical and fun to code. Then there is part 2 and it's day 5 all over again. I almost gave up on this until someone mentioned lcm. Not really sure how someone could come up with that this can be solved with LCM but sure it worked. So when the code works, don't touch it? Ok, maybe I will leave the code alone, but still, some more understanding would be beneficial.
