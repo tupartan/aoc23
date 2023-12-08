@@ -30,3 +30,7 @@ So it was today that these performance puzzles came. Length and complexity of th
 ## Day 6
 ### Still brute forcing
 Day 5 part 2 has not finished its run. So naturally I ignored that problem and moved on. Day 6 had the same vibes as day 5; first part was pretty straight forward and easy to do and second part gave an impression that here we go with brute forcing again. I was pretty shocked that part 2 brute forced itself in mere seconds. So as the day 6 is finished, I need to revisit day 5 and try to read posts and hints about effective solutions and try it myself. Let's see...
+
+## Day 7
+### Testing testing
+Day after day 7 - it was straight forward and itself easy to code. What is coming apparent, besides thinking from performance point-of-view, is to approach these puzzles form testing pow. Most of the times the test input given is not enoght to cover all the cases so it will take some time to debug and find bugs in one's code. Reddit community has helped with that, but how about implementing that in one's ways of coding.
