@@ -38,3 +38,7 @@ Day after day 7 - it was straight forward and itself easy to code. What is comin
 ## Day 8
 ### What is LCM
 One those days, yes, where first part of the puzzle is easy, logical and fun to code. Then there is part 2 and it's day 5 all over again. I almost gave up on this until someone mentioned lcm. Not really sure how someone could come up with that this can be solved with LCM but sure it worked. So when the code works, don't touch it? Ok, maybe I will leave the code alone, but still, some more understanding would be beneficial.
+
+## Day 9
+### Loopy loops
+There a solutions that is working based on maths. Then there are loops in loops. Latter seems to be my cup of tea, although it is still like entering a glass shop with an elephant and a mouse. So far so good, but there is an anticipation that soon I might be missing my maths lessons.
