@@ -42,3 +42,7 @@ One those days, yes, where first part of the puzzle is easy, logical and fun to 
 ## Day 9
 ### Loopy loops
 There a solutions that is working based on maths. Then there are loops in loops. Latter seems to be my cup of tea, although it is still like entering a glass shop with an elephant and a mouse. So far so good, but there is an anticipation that soon I might be missing my maths lessons.
+
+## Day 11
+### What happened to Day 10
+When you have exhausted all your time solving first puzzle, finally get it right and it is close to deadline, it is quite easy just to let go and think I'll sort this one tomorrow. That's what happened to Day 10. But I didn't sort it on Day 11, rather focusing on the puzzle for today. Galaxies and distances. Not too tough though, just maths trying to guess distances between ever expanding galaxies. First part was basically brute way of approaching the problem, but with second part I needed to change away from loops and use maths.
